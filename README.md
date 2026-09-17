@@ -399,8 +399,8 @@ This continuous feedback loop allows the robot to respond to changes in the line
 # 📸 Project Gallery
 
 <p align="center">
-  <img src="Images/robot.jpg" width="48%">
-  <img src="Images/circuit.jpg" width="48%">
+  <img src="Images/robot.jpeg" width="48%">
+  <img src="Images/code.png" width="48%">
 </p>
 
 <p align="center">
@@ -413,20 +413,17 @@ This continuous feedback loop allows the robot to respond to changes in the line
 
 ---
 
-# 🎥 Demo
+## 🎥 Demo Video
 
 <p align="center">
-
-<!-- Replace the link below with your actual demo video/GIF -->
-
-<>
-  ▶️ <b>Watch the Robot Demo</b>
-</a>
-
+  <a href="Images/line_following_robot_clean_music%20%281%29.mp4">
+    <img src="Images/working.jpg" width="700">
+  </a>
 </p>
 
-The demonstration shows the robot detecting the path and continuously adjusting its movement using the dual-IR sensing system.
-
+<p align="center">
+  ▶️ <b>Click the image to watch the Line Following Robot Demo</b>
+</p>
 ---
 
 # 📂 Repository Structure
