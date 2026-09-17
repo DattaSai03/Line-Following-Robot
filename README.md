@@ -1,7 +1,13 @@
 # 🤖 Line Following Robot
 
 <p align="center">
-  <img src="Images/robot.jpg" width="700">
+
+
+  
+  <img width="1600" height="900" alt="robot" src="https://github.com/user-attachments/assets/7c7a67fe-fcc2-4862-aa81-6d5e9065c905" />
+
+  
+
 </p>
 
 <h3 align="center">
@@ -413,7 +419,7 @@ This continuous feedback loop allows the robot to respond to changes in the line
 
 <!-- Replace the link below with your actual demo video/GIF -->
 
-<a href="Video/line_following_robot.mp4">
+<>
   ▶️ <b>Watch the Robot Demo</b>
 </a>
 
