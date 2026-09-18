@@ -400,21 +400,19 @@ This continuous feedback loop allows the robot to respond to changes in the line
 
 <p align="center">
   <img src="Images/robot.jpeg" width="48%">
-  <img src="Images/code.png" width="48%">
+  <img width="1536" height="1024" alt="Code" src="https://github.com/user-attachments/assets/ede0bc34-a9cf-4691-b674-71de328f151a" />
+
 </p>
 
 <p align="center">
-  <img src="Images/working.jpg" width="70%">
+  <img width="1536" height="1024" alt="ChatGPT Image Sep 18, 2026, 11_00_39 PM" src="https://github.com/user-attachments/assets/f3ae746f-8971-460d-80a5-9ee6177ada1b" />
+
 </p>
 
 <p align="center">
   <i>Hardware • Circuit • Working Prototype</i>
 </p>
 
----
-<p align="center">
-  ▶️ <b>Click the image to watch the Line Following Robot Demo</b>
-</p>
 ---
 
 # 📂 Repository Structure
