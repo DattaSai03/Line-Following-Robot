@@ -412,15 +412,6 @@ This continuous feedback loop allows the robot to respond to changes in the line
 </p>
 
 ---
-
-## 🎥 Demo Video
-
-<p align="center">
-  <a href="Images/line_following_robot_clean_music%20%281%29.mp4">
-    <img src="Images/working.jpg" width="700">
-  </a>
-</p>
-
 <p align="center">
   ▶️ <b>Click the image to watch the Line Following Robot Demo</b>
 </p>
